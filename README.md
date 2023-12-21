@@ -1,1 +1,1 @@
-单周期CPU，可以实现跳转指令
+A RISC-V architecture single-cycle CPU.
